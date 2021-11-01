@@ -9,3 +9,6 @@ Live Attendance system that is capable to mark attendance in real-time by detect
 - CSV file to store the data
 - Machine Learning algorithm to train the system
 - AI Face detection module to detect the face
+
+
+### Run Attendance.py
